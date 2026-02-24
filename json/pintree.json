@@ -2,35 +2,56 @@
   {
     "type": "folder",
     "addDate": 1705846741825,
-    "title": "移动收藏夹",
+    "title": "收藏夹栏",
     "children": [
       {
         "type": "link",
-        "addDate": 1721216768284,
-        "title": "仪表盘 | 大湾区",
-        "icon": "https://logo.clearbit.com/sirzhang.com",
-        "url": "https://sirzhang.com/#/dashboard"
+        "addDate": 1726135342045,
+        "title": "大湾区",
+        "icon": "https://logo.clearbit.com/1.sirzhang.com",
+        "url": "https://1.sirzhang.com/"
       },
       {
         "type": "link",
-        "addDate": 1721477822915,
-        "title": "仪表盘 | Lovesy 机场",
-        "icon": "https://logo.clearbit.com/www.lovesy.net",
-        "url": "https://www.lovesy.net/#/dashboard"
+        "addDate": 1738206477072,
+        "title": "登录页 | 魔法喵",
+        "icon": "https://logo.clearbit.com/magicm.xyz",
+        "url": "https://magicm.xyz/#/login"
       },
       {
         "type": "link",
-        "addDate": 1722752882717,
-        "title": "玩家动力-没有人比玩家更懂游戏",
-        "icon": "https://logo.clearbit.com/www.wanjiadongli.com",
-        "url": "https://www.wanjiadongli.com/"
+        "addDate": 1753787554275,
+        "title": "拷貝漫畫 - 海賊王 海贼王 哥布林殺手 哥布林杀手 漫畫 漫画 FGO FGO 東方 东方 艦娘 舰娘 同人志 本子 更新 全集 在綫漫畫 在线漫画 - 拷貝漫畫 拷贝漫画",
+        "icon": "https://logo.clearbit.com/www.2025copy.com",
+        "url": "https://www.2025copy.com/"
       },
       {
         "type": "link",
-        "addDate": 1723101755869,
-        "title": "FOMECard",
-        "icon": "https://logo.clearbit.com/134.fomecard.top",
-        "url": "https://134.fomecard.top/home"
+        "addDate": 1693792163929,
+        "title": "NVidia GeForce RTX 3070 Ti Laptop GPU 驱动程序",
+        "icon": "https://logo.clearbit.com/cn.driverscollection.com",
+        "url": "https://cn.driverscollection.com/?H=GeForce%20RTX%203070%20Ti%20Laptop%20GPU&By=NVidia"
+      },
+      {
+        "type": "link",
+        "addDate": 1758967716345,
+        "title": "Link",
+        "icon": "https://logo.clearbit.com/app.link.com",
+        "url": "https://app.link.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1769599500053,
+        "title": "RGB颜色转换器 | HEX转RGB | 颜色代码转换工具",
+        "icon": "https://logo.clearbit.com/tool4dev.net",
+        "url": "https://tool4dev.net/converters/color-converter/"
+      },
+      {
+        "type": "link",
+        "addDate": 1769840052239,
+        "title": "商店 - Kitty Network机场",
+        "icon": "https://logo.clearbit.com/kitty.su",
+        "url": "https://kitty.su/#/shop"
       }
     ]
   }
